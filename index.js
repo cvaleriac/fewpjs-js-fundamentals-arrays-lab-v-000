@@ -1,3 +1,3 @@
 // Write your solution here!
-let pets = []
+let pets = [""]
 pets.push("Odie")
